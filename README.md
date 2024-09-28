@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java & Kotlin**
 
-- 👨‍💻 All of my projects are available at [My Shop Apps](https://github.com/nur1ibekhh/MyShopApps))
+- 👨‍💻 My project is [My Shop Apps](https://github.com/nur1ibekhh/MyShopApps))
 
 - 💬 Ask me about **Android, MVVM, MVP, MVI**
 
